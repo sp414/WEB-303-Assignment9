@@ -1,0 +1,8 @@
+{
+    "Characters":[
+        {"Name": "Hulk", "FirstAppearance": "The Incredible Hulk", "PlayedBy": "Mark Ruffalo", "Age": "53", "DOB": "1967-11-22"}, 
+        {"Name": "Michael Scott", "FirstAppearance": "The Office", "PlayedBy": "Steve Carell", "Age": "59", "DOB": "1962-08-16"},
+        {"Name": "Katniss Everdeen", "FirstAppearance": "The Hunger Games", "PlayedBy": "Jennifer Lawrence", "Age": "31", "DOB": "1990-08-15"},
+        {"Name": "Edward Cullen", "FirstAppearance": "Twilight", "PlayedBy": "Robert Pattinson", "Age": "35", "DOB": "1986-05-13"}
+    ]
+}
